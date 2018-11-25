@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Twenty Eleven Inno-Oppiva
+ Description:  Twenty Eleven - University of Tampere, TRIM, Inno-Oppiva
+ Author:       Pilottikonfiguraattori syksy 2018
+ Template:     twentyeleven
+ Version:      1.0.1
+ Text Domain:  inno-oppiva-theme
+*/
+
+@import url("../twentyeleven/style.css");
+
+#access {
+	background: #165788; /* Show a solid color for older browsers */
+	background: -moz-linear-gradient(#165788, #165788);
+	background: -o-linear-gradient(#165788, #165788);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#165788), to(#165788)); /* older webkit syntax */
+	background: -webkit-linear-gradient(#165788, #165788);
+}
+
+.uta-logo { padding: 20px 7.6% 0; border-top: 2px solid #bbb; }
+
+#branding { border-top: none; }
+
+
